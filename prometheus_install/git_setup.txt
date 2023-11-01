@@ -1,0 +1,25 @@
+    1  su -
+    2  sudo su
+    3  su -
+    4  git init
+    5  git status
+    6  git add .
+    7  git status
+    8  git commit -m "install_prometheus"
+    9  git config --global user.name "Mir Ali" 
+   10  git config --global user.email bachchu333@gmail.com 
+   11  git config --global init.defaultBranch Main
+   12  git remote add origin https://github.com/mir-owahed/prometheus.git
+   13  git remote -v
+   14  git push origin main
+   15  git push --set-upstream origin main
+   16  git push -u origin main
+   17  git config credential.username "mir-owahed"
+   18  git push -u origin main
+   19  git remote add origin https://github.com/mir-owahed/prometheus.git
+   20  git remote -v
+   21  git push --set-upstream origin main
+   22  git push --set-upstream origin 
+   23  git push --set-upstream origin master
+   24  history
+   25  history > git_setup.txt
