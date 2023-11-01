@@ -18,41 +18,9 @@
    18  l
    19  apt install nano
    20  sudo apt install nano
-   21  vi prometheus.yml 
-   22  l
-   23  vi prometheus.yml 
-   24  rm prometheus.yml
-   25  vi prometheus.yml
-   26  rm prometheus.yml
    27  su -
    28  nano prometheus.yml
-   29  ./prometheus 
-   30  nano prometheus.yml
-   31  ./prometheus 
-   32  nano prometheus.yaml
-   33  mv prometheus.yml prometheus.yaml
-   34  ls
-   35  ./prometheus 
-   36  mv prometheus.yaml prometheus.yml
-   37  nano prometheus.yaml
-   38  nano prometheus.yml
-   39  ./prometheus 
-   40  nano prometheus.yml
-   41  y
-   42  ./prometheus 
-   43  nano prometheus.yml
-   44  ./prometheus 
-   45  nano prometheus.yml
-   46  ./prometheus 
-   47  nano prometheus.yml
-   48  ./prometheus 
-   49  nano prometheus.yml
-   50  ./prometheus 
-   51  nano prometheus.yml
-   52  ./prometheus 
-   53  nano prometheus.yml
-   54  ./prometheus 
-   55  nano prometheus.yml
+   add configuration into the file
    56  ./prometheus 
    57  ll
    58  git --version
@@ -71,7 +39,7 @@
    71  code .
    72  history
    73  ls
-   74  cat prometheus/
+  
    75  cd prometheus/
    76  ls
    77  history
