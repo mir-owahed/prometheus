@@ -1,0 +1,47 @@
+    1  su -
+    2  sudo su
+    3  su -
+    4  uname -a
+    5  lsb_release -a
+    6  ls
+    7  cd Downloads/
+    8  ls
+    9  tar xvfz prometheus-2.48.0-rc.1.linux-amd64.tar.gz 
+   10  ls
+   11  cd prometheus-2.48.0-rc.1.linux-amd64/
+   12  ls
+   13  l
+   14  rm -rf console* LICENSE promtool*
+   15  ls
+   16  rm NOTICE 
+   17  ls
+   18  l
+   19  apt install nano
+   20  sudo apt install nano
+   27  su -
+   28  nano prometheus.yml
+   add configuration into the file
+   56  ./prometheus 
+   57  ll
+   58  git --version
+   59  su -
+   60  ls
+   61  code prometheus.yml
+   62  mkdir prometheus
+   63  mkdir prometheus_install
+   64  cd prometheus_install/
+   65  ls
+   66  cd ..
+   67  ls
+   68  mv prometheus.yml prometheus_install/
+   69  ls
+   70  code prometheus_install/
+   71  code .
+   72  history
+   73  ls
+  
+   75  cd prometheus/
+   76  ls
+   77  history
+   78  ls
+   79  history > prometheus_install.txt
